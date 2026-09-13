@@ -7,6 +7,8 @@
 > **Status:** work in progress / reverse-engineering notes from one defective CHERRY ST-1506 unit.  
 > **Last updated:** 2026-09-13
 
+## wer die platine haben möchte zur weiteren untersuchung bitte melden, ich brauche sie nicht mehr. eine freie firmware für das gerät als smart-home-bedienung mit RFID-unterstützung?
+
 This repository documents observations from opening and investigating a defective **CHERRY eHealth Terminal ST-1506**, with the aim of reusing the enclosure, touchscreen/display and possibly the original **PX30 / Cobra** mainboard as a general-purpose Linux device. A second goal is to fit a normal USB smart-card reader into the enclosure and use it through a custom SICCT proxy.
 
 These notes deliberately distinguish between **observed on the actual unit**, **documented upstream**, and **not yet verified**.
