@@ -1,13 +1,15 @@
 # CHERRY ST-1506 / Cobra V2.2 — hardware notes and Linux repurposing
 
+[![Watch the video on YouTube](https://i.ytimg.com/vi/uRO1DDZfvUY/maxresdefault.jpg)](https://www.youtube.com/watch?v=uRO1DDZfvUY)
+
+**[▶ Watch the video on YouTube](https://www.youtube.com/watch?v=uRO1DDZfvUY)**
+
 > **Status:** work in progress / reverse-engineering notes from one defective CHERRY ST-1506 unit.  
 > **Last updated:** 2026-09-13
 
 This repository documents observations from opening and investigating a defective **CHERRY eHealth Terminal ST-1506**, with the aim of reusing the enclosure, touchscreen/display and possibly the original **PX30 / Cobra** mainboard as a general-purpose Linux device. A second goal is to fit a normal USB smart-card reader into the enclosure and use it through a custom SICCT proxy.
 
 These notes deliberately distinguish between **observed on the actual unit**, **documented upstream**, and **not yet verified**.
-
-**Video:** [Watch on YouTube](https://www.youtube.com/watch?v=uRO1DDZfvUY)
 
 ## Important warning
 
